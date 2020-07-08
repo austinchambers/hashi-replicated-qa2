@@ -1,1 +1,1 @@
-# hashi-replicated-qa2
+# hashi-replicated-qa
